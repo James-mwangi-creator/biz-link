@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "Biz Link",
+    "slug": "biz-link",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#2A5C82"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.James-mwangi-creator.bizlink"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#2A5C82"
+      },
+      "package": "com.James-mwangi-creator.bizlink"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
